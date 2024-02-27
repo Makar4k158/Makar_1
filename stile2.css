@@ -1,0 +1,9 @@
+
+@media  (min-width: 500px) and (max-width: 1000px){
+    body{
+        background-color: blueviolet(253, 0, 173);
+    }
+    h1{
+        color: antiquewhite(255, 255, 255);
+    }
+}
